@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1668592743595' stop='1668592743906'>
+    <name>Cypress.platform</name>
+    <title>Cypress.platform</title>
+    <test-cases>
+        <test-case start='1668592743595' status='passed' stop='1668592743894'>
+            <name>Get underlying OS name</name>
+            <title>Get underlying OS name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

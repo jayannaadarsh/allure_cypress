@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1668592886492' stop='1668592888318'>
+    <name>Window</name>
+    <title>Window</title>
+    <test-cases>
+        <test-case start='1668592886492' status='pending' stop='1668592886492'>
+            <name>cy.window() - get the global window object</name>
+            <title>cy.window() - get the global window object</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1668592886492' status='undefined'>
+            <name>cy.window() - get the global window object</name>
+            <title>cy.window() - get the global window object</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668592886492' status='passed' stop='1668592888306'>
+            <name>cy.document() - get the document object</name>
+            <title>cy.document() - get the document object</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668592888317' status='pending' stop='1668592888317'>
+            <name>cy.title() - get the title</name>
+            <title>cy.title() - get the title</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1668592888317' status='undefined'>
+            <name>cy.title() - get the title</name>
+            <title>cy.title() - get the title</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1668592797494' stop='1668592809539'>
+    <name>Network Requests</name>
+    <title>Network Requests</title>
+    <test-cases>
+        <test-case start='1668592797494' status='passed' stop='1668592800756'>
+            <name>cy.request() - make an XHR request</name>
+            <title>cy.request() - make an XHR request</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668592800760' status='passed' stop='1668592801985'>
+            <name>cy.request() - verify response using BDD syntax</name>
+            <title>cy.request() - verify response using BDD syntax</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668592801988' status='passed' stop='1668592802874'>
+            <name>cy.request() with query parameters</name>
+            <title>cy.request() with query parameters</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668592802878' status='passed' stop='1668592804847'>
+            <name>cy.request() - pass result to the second request</name>
+            <title>cy.request() - pass result to the second request</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668592804856' status='passed' stop='1668592806668'>
+            <name>cy.request() - save response in the shared test context</name>
+            <title>cy.request() - save response in the shared test context</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668592806671' status='passed' stop='1668592809536'>
+            <name>cy.intercept() - route responses to matching requests</name>
+            <title>cy.intercept() - route responses to matching requests</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

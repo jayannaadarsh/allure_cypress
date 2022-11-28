@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1668239185414' stop='1668239188027'>
+    <name>Local Storage</name>
+    <title>Local Storage</title>
+    <test-cases>
+        <test-case start='1668239185414' status='passed' stop='1668239188017'>
+            <name>cy.clearLocalStorage() - clear all data in local storage</name>
+            <title>cy.clearLocalStorage() - clear all data in local storage</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

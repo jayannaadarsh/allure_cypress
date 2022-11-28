@@ -1,0 +1,83 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1668592856038' stop='1668592859853'>
+    <name>Utilities</name>
+    <title>Utilities</title>
+    <test-cases>
+        <test-case start='1668592856038' status='passed' stop='1668592859342'>
+            <name>Cypress._ - call a lodash method</name>
+            <title>Cypress._ - call a lodash method</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668592859354' status='passed' stop='1668592859821'>
+            <name>Cypress.$ - call a jQuery method</name>
+            <title>Cypress.$ - call a jQuery method</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668592859849' status='pending' stop='1668592859849'>
+            <name>Cypress.Blob - blob utilities and base64 string conversion</name>
+            <title>Cypress.Blob - blob utilities and base64 string conversion</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1668592859849' status='undefined'>
+            <name>Cypress.Blob - blob utilities and base64 string conversion</name>
+            <title>Cypress.Blob - blob utilities and base64 string conversion</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668592859849' status='pending' stop='1668592859849'>
+            <name>Cypress.minimatch - test out glob patterns against strings</name>
+            <title>Cypress.minimatch - test out glob patterns against strings</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1668592859849' status='undefined'>
+            <name>Cypress.minimatch - test out glob patterns against strings</name>
+            <title>Cypress.minimatch - test out glob patterns against strings</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668592859850' status='pending' stop='1668592859850'>
+            <name>Cypress.Promise - instantiate a bluebird promise</name>
+            <title>Cypress.Promise - instantiate a bluebird promise</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1668592859853' status='undefined'>
+            <name>Cypress.Promise - instantiate a bluebird promise</name>
+            <title>Cypress.Promise - instantiate a bluebird promise</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

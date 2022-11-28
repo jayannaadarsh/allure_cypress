@@ -1,0 +1,129 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1668592654506' stop='1668592685144'>
+    <name>Actions</name>
+    <title>Actions</title>
+    <test-cases>
+        <test-case start='1668592654506' status='failed' stop='1668592667119'>
+            <name>.type() - type into a DOM element</name>
+            <title>.type() - type into a DOM element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Timed out retrying after 6150ms: expected '&lt;input#email1.form-control.action-email>' to have value 's.typing@email.com', but the value was 'slow.typing@email.com'</message>
+                <stack-trace>AssertionError: Timed out retrying after 6150ms: expected '&lt;input#email1.form-control.action-email>' to have value 's.typing@email.com', but the value was 'slow.typing@email.com'
+                    at Context.eval (https://example.cypress.io/__cypress/tests?p=cypress\integration\2-advanced-examples\actions.spec.js:115:8)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1668592667190' status='passed' stop='1668592667749'>
+            <name>.focus() - focus on a DOM element</name>
+            <title>.focus() - focus on a DOM element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668592667770' status='passed' stop='1668592668437'>
+            <name>.blur() - blur off a DOM element</name>
+            <title>.blur() - blur off a DOM element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668592668447' status='failed' stop='1668592673691'>
+            <name>.clear() - clears an input or textarea element</name>
+            <title>.clear() - clears an input or textarea element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Timed out retrying after 4070ms: expected '&lt;input#description.form-control.action-clear>' to have value '123', but the value was ''</message>
+                <stack-trace>AssertionError: Timed out retrying after 4070ms: expected '&lt;input#description.form-control.action-clear>' to have value '123', but the value was ''
+                    at Context.eval (https://example.cypress.io/__cypress/tests?p=cypress\integration\2-advanced-examples\actions.spec.js:132:101)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1668592673723' status='passed' stop='1668592674475'>
+            <name>.submit() - submit a form</name>
+            <title>.submit() - submit a form</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668592674480' status='passed' stop='1668592677491'>
+            <name>.click() - click on a DOM element</name>
+            <title>.click() - click on a DOM element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668592677499' status='passed' stop='1668592677996'>
+            <name>.dblclick() - double click on a DOM element</name>
+            <title>.dblclick() - double click on a DOM element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668592678013' status='passed' stop='1668592678384'>
+            <name>.rightclick() - right click on a DOM element</name>
+            <title>.rightclick() - right click on a DOM element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668592678397' status='passed' stop='1668592679709'>
+            <name>.check() - check a checkbox or radio element</name>
+            <title>.check() - check a checkbox or radio element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668592679716' status='passed' stop='1668592680965'>
+            <name>.uncheck() - uncheck a checkbox element</name>
+            <title>.uncheck() - uncheck a checkbox element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668592680980' status='passed' stop='1668592682115'>
+            <name>.select() - select an option in a &lt;select> element</name>
+            <title>.select() - select an option in a &lt;select> element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668592682127' status='passed' stop='1668592682513'>
+            <name>.scrollIntoView() - scroll an element into view</name>
+            <title>.scrollIntoView() - scroll an element into view</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668592682527' status='passed' stop='1668592682823'>
+            <name>.trigger() - trigger an event on a DOM element</name>
+            <title>.trigger() - trigger an event on a DOM element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668592682826' status='passed' stop='1668592685108'>
+            <name>cy.scrollTo() - scroll the window or element to a position</name>
+            <title>cy.scrollTo() - scroll the window or element to a position</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

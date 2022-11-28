@@ -1,0 +1,36 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1668239206380' stop='1668239216158'>
+    <name>Navigation</name>
+    <title>Navigation</title>
+    <test-cases>
+        <test-case start='1668239206380' status='failed' stop='1668239214501'>
+            <name>cy.go() - go back or forward in the browser's history</name>
+            <title>cy.go() - go back or forward in the browser's history</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Timed out retrying after 4000ms: expected '/commands/navigation' to include 'navation'</message>
+                <stack-trace>AssertionError: Timed out retrying after 4000ms: expected '/commands/navigation' to include 'navation'
+                    at Context.eval (https://example.cypress.io/__cypress/tests?p=cypress\integration\2-advanced-examples\navigation.spec.js:118:29)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1668239214542' status='passed' stop='1668239215429'>
+            <name>cy.reload() - reload the page</name>
+            <title>cy.reload() - reload the page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668239215442' status='passed' stop='1668239216148'>
+            <name>cy.visit() - visit a remote url</name>
+            <title>cy.visit() - visit a remote url</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

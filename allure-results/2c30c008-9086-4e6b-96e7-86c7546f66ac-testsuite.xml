@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1668411705050' stop='1668411709446'>
+    <name>Misc Cypress.Screenshot</name>
+    <title>Misc Cypress.Screenshot</title>
+    <test-cases>
+        <test-case start='1668411705051' status='passed' stop='1668411709077'>
+            <name>cy.screenshot() - take a screenshot</name>
+            <title>cy.screenshot() - take a screenshot</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668411709094' status='passed' stop='1668411709423'>
+            <name>Cypress.Screenshot.defaults() - change default config of screenshots</name>
+            <title>Cypress.Screenshot.defaults() - change default config of screenshots</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

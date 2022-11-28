@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1668239274025' stop='1668239279649'>
+    <name>Utilities</name>
+    <title>Utilities</title>
+    <test-cases>
+        <test-case start='1668239274025' status='passed' stop='1668239277219'>
+            <name>Cypress._ - call a lodash method</name>
+            <title>Cypress._ - call a lodash method</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668239277222' status='passed' stop='1668239277495'>
+            <name>Cypress.$ - call a jQuery method</name>
+            <title>Cypress.$ - call a jQuery method</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668239277500' status='passed' stop='1668239278170'>
+            <name>Cypress.Blob - blob utilities and base64 string conversion</name>
+            <title>Cypress.Blob - blob utilities and base64 string conversion</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668239278177' status='passed' stop='1668239278443'>
+            <name>Cypress.minimatch - test out glob patterns against strings</name>
+            <title>Cypress.minimatch - test out glob patterns against strings</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1668239278448' status='passed' stop='1668239279647'>
+            <name>Cypress.Promise - instantiate a bluebird promise</name>
+            <title>Cypress.Promise - instantiate a bluebird promise</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
