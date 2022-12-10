@@ -1,1 +1,11 @@
-{}
+{
+    "video": false,
+    "screenshotOnRunFailure": false,
+    "defaultCommandTimeout": 60000,
+    "pageLoadTimeout":60000,
+    "timeout":3000,
+    "chromeWebSecurity": true,
+    "viewportHeight": 768,
+    "viewportWidth": 1024
+  }
+  
