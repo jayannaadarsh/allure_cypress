@@ -9,6 +9,7 @@
   "scripts": {
     "cy:regression": "cypress run --reporter mocha-allure-reporter",
     "report:allure": "allure generate allure-results --clean -o allure-report && allure open  allure-report",
+    "report:generate": "allure generate allure-results --clean -o allure-report",
     "test:allure": "npm run cy:regression && npm run report:allure",
     "cypress:chrome": "cypress run --browser chrome --reporter mocha-allure-reporter",
     "cypress:edge": "cypress run --browser edge --reporter mocha-allure-reporter"
